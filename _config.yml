@@ -1,6 +1,6 @@
 name: ation labs
 favicon: null
-layout_spectrum: 0.2516891807317734
+layout_spectrum: 0
 typography_spectrum: 0.9532927686814219
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.664145230781287
-  lightness: 0.684718778822571
+  brandStrength: 1
+  lightness: 0.8125
   saturation: 0.46149446559138596
-  rhythmicContrast: 0.7956826845183969
+  rhythmicContrast: 1
 purpose: []
