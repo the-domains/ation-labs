@@ -1,19 +1,4 @@
-name: ation labs
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.9532927686814219
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,19 @@ color:
   lightness: 0.8125
   saturation: 0.46149446559138596
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ation labs
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
