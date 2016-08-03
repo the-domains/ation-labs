@@ -1,4 +1,6 @@
 typography_spectrum: 0.9532927686814219
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -19,6 +21,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb1e77c-4311-431f-bfa0-2244b018512e.jpg
 name: Ation Labs
 cta:
   domain: null
@@ -28,7 +32,8 @@ navigation:
   - name: About Us
     id: d675ba5e-a82b-42af-ad44-fbd8bfe65694
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
 title: Ation Labs Corp
 description: it ends with ation
 purpose: []
