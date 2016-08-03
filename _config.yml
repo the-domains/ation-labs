@@ -24,7 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - name: About Us
+    id: d675ba5e-a82b-42af-ad44-fbd8bfe65694
+    type: content
 favicon: null
 title: Ation Labs Corp
 description: it ends with ation
