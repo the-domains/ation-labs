@@ -24,10 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About us
-    url: 'https://thegrid.ai/ation-labs/aboutus'
-    type: external
+navigation: []
 favicon: null
 title: Ation Labs Corp
 description: it ends with ation
