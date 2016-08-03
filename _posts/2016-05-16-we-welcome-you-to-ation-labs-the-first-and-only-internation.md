@@ -1,26 +1,26 @@
 ---
+datePublished: '2016-08-03T13:05:49.221Z'
+sourcePath: >-
+  _posts/2016-05-16-we-welcome-you-to-ation-labs-the-first-and-only-internation.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'We welcome you to Ation Labs. The first and only international complete prototype production company. Here we make the impossible a thing of the past. '
-datePublished: '2016-05-16T15:40:23.446Z'
-dateModified: '2016-05-16T15:39:57.125Z'
-title: ''
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
-sourcePath: _posts/2016-05-16-we-welcome-you-to-ation-labs-the-first-and-only-internation.md
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-03T13:05:48.667Z'
+title: ''
+publisher: {}
+description: >-
+  We welcome you to Ation Labs. The first and only international complete
+  prototype production company. Here we make the impossible a thing of the past.
+inLanguage: null
+inNav: false
+via: {}
+starred: true
 url: we-welcome-you-to-ation-labs-the-first-and-only-internation/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aec8f063-3d7a-40b9-b092-d31ff7ccd1ad.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/993f883e8d9e38a2164f5c3f5307d42e53c0cd64.jpg)
 
 We welcome you to Ation Labs. The first and only international complete prototype production company. Here we make the impossible a thing of the past.
