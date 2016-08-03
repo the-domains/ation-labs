@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ation labs]]></title>
-        <description><![CDATA[ation labs]]></description>
+        <title><![CDATA[Ation Labs Corp]]></title>
+        <description><![CDATA[Ation Labs Corp]]></description>
         <link>https://thegrid.ai/ation-labs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 13:17:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ation-labs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 03 Aug 2016 13:05:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UI]]></title>
+            <description><![CDATA[<article><h1>UI</h1><p>The best way to explain our user interface is for you to see it !</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90c33971-aef0-4970-9325-f5a1462212af.gif"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/90c33971-aef0-4970-9325-f5a1462212af.gif</link>
+            <guid isPermaLink="false">5b3c7372-61c5-498a-8883-977f4da8c841</guid>
+            <pubDate>Wed, 03 Aug 2016 13:17:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AIAI - First Truly Artificial Intelligent Personal Robot]]></title>
-            <description><![CDATA[<article><h1>AIAI - First Truly Artificial Intelligent Personal Robot</h1><p>Go on http://www.ationlabs.com for a chance to win the first AIAI and to be the first to know about it's launch. See AIAI vs Siri vs Google now here https://www.youtube.com/watch?v=-cdzhgzLFzY Let's create the future together. Music: Buddy - Bensound.com Some of the scenery filmed at : www.palatulnoblesse.ro</p></article>]]></description>
+            <description><![CDATA[<article><h1>AIAI - First Truly Artificial Intelligent Personal Robot</h1><p>Go on http://www.ationlabs.com for a chance to win the first AIAI and to be the first to know about it's launch. See AIAI vs Siri vs Google now here https://www.youtube.com/watch?v=-cdzhgzLFzY Let's create the future together. Music: Buddy - Bensound.com Some of the scenery filmed at : www.palatulnoblesse.ro</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/313f71b11c9749c77e5b9e77c1535f03/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FnIJwXy_e4yg%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=nIJwXy_e4yg</link>
             <guid isPermaLink="false">31adbdba-12c0-4d3a-99dc-fce50b48961f</guid>
             <pubDate>Wed, 03 Aug 2016 13:07:17 GMT</pubDate>
