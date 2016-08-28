@@ -1,6 +1,30 @@
-typography_spectrum: 0.9532927686814219
+name: Ation Labs
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
+layout_spectrum: 0.27722
+typography_spectrum: 0
 content_rating:
   adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb1e77c-4311-431f-bfa0-2244b018512e.jpg
+navigation:
+  - name: About Us
+    id: d675ba5e-a82b-42af-ad44-fbd8bfe65694
+    type: content
+title: Ation Labs Corp
+description: it ends with ation
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -9,31 +33,7 @@ color:
     - '#c0c1c2'
     - '#e7e7e8'
   brandStrength: 1
-  lightness: 0.8125
+  lightness: 0.9375
   saturation: 0.46149446559138596
   rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb1e77c-4311-431f-bfa0-2244b018512e.jpg
-name: Ation Labs
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: About Us
-    id: d675ba5e-a82b-42af-ad44-fbd8bfe65694
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
-title: Ation Labs Corp
-description: it ends with ation
 purpose: []
