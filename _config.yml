@@ -1,7 +1,7 @@
 name: Ation Labs
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
-layout_spectrum: 0.27722
+layout_spectrum: 0.77103
 typography_spectrum: 0
 content_rating:
   adult: false
@@ -32,8 +32,8 @@ color:
     - '#a8a9ad'
     - '#c0c1c2'
     - '#e7e7e8'
-  brandStrength: 1
-  lightness: 0.9375
-  saturation: 0.46149446559138596
-  rhythmicContrast: 1
+  brandStrength: 0.125
+  lightness: 0.1875
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
