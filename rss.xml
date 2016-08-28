@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ation Labs Corp]]></title>
-        <description><![CDATA[Ation Labs Corp]]></description>
+        <title><![CDATA[Ation Labs Corp.]]></title>
+        <description><![CDATA[Ation Labs Corp.]]></description>
         <link>https://thegrid.ai/ation-labs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 14:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 14:59:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ation-labs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -19,13 +19,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b19e031-70bf-4a86-ad37-c967a0af1b96.png</link>
             <guid isPermaLink="false">484e7398-2b7b-4788-9c87-8e9b683f7eef</guid>
             <pubDate>Wed, 03 Aug 2016 13:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/942f1215-70d3-4b33-96a0-9d6a3af1fd84.png">]]></description>
-            <link>https://thegrid.ai/ation-labs/4c7523de-9660-446e-83a0-24602cd1d687/index.html</link>
-            <guid isPermaLink="false">4c7523de-9660-446e-83a0-24602cd1d687</guid>
-            <pubDate>Wed, 03 Aug 2016 13:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UI]]></title>
