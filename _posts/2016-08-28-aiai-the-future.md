@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T09:19:42.266Z'
+datePublished: '2016-08-28T09:30:54.138Z'
 sourcePath: _posts/2016-08-28-aiai-the-future.md
 inFeed: true
 authors: []
@@ -10,7 +10,7 @@ author:
     url: 'https://www.youtube.com/channel/UCeeN0Aj2jj5lqUcQ47Ypi6w'
     avatar: {}
 via: {}
-dateModified: '2016-08-28T09:19:41.768Z'
+dateModified: '2016-08-28T09:30:53.616Z'
 title: AIAI - the future
 publisher: {}
 description: >-
