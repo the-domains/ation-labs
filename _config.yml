@@ -1,8 +1,19 @@
+layout_spectrum: 0.4522801183629781
+typography_spectrum: 0.5758336919825524
+color:
+  brandColors:
+    - '#ffffff'
+    - '#6d6e72'
+    - '#a8a9ad'
+    - '#c0c1c2'
+    - '#e7e7e8'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 name: Ation Labs
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
-layout_spectrum: 1
-typography_spectrum: 0.02599
 content_rating:
   adult: false
 logo: >-
@@ -25,15 +36,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#6d6e72'
-    - '#a8a9ad'
-    - '#c0c1c2'
-    - '#e7e7e8'
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
