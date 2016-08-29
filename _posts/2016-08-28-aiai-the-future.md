@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-28T09:30:54.138Z'
+datePublished: '2016-08-28T09:34:03.797Z'
 sourcePath: _posts/2016-08-28-aiai-the-future.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
@@ -10,7 +10,7 @@ author:
     url: 'https://www.youtube.com/channel/UCeeN0Aj2jj5lqUcQ47Ypi6w'
     avatar: {}
 via: {}
-dateModified: '2016-08-28T09:30:53.616Z'
+dateModified: '2016-08-28T09:34:03.340Z'
 title: AIAI - the future
 publisher: {}
 description: >-
@@ -23,7 +23,7 @@ inLanguage: null
 inNav: true
 starred: false
 url: aiai-the-future/index.html
-_type: Article
+_type: WebPage
 
 ---
 # AIAI - the future
