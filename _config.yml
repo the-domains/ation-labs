@@ -1,5 +1,6 @@
-layout_spectrum: 0.4522801183629781
 typography_spectrum: 0.5758336919825524
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -11,29 +12,31 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
-name: Ation Labs
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
-content_rating:
-  adult: false
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb1e77c-4311-431f-bfa0-2244b018512e.jpg
-navigation:
-  - name: About Us
-    id: d675ba5e-a82b-42af-ad44-fbd8bfe65694
-    type: content
-title: Ation Labs
-description: it ends with ation
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4522801183629781
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb1e77c-4311-431f-bfa0-2244b018512e.jpg
+name: Ation Labs
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Us
+    id: d675ba5e-a82b-42af-ad44-fbd8bfe65694
+    type: content
+  - name: AIAI - the future
+    id: d8ca18b5-feba-489d-8e5a-32b50eab2d01
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
+title: Ation Labs
+description: it ends with ation
 purpose: []
