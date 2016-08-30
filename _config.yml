@@ -35,6 +35,9 @@ navigation:
   - name: Skylar
     id: f4665194-a762-4a41-a364-c419ef073f67
     type: content
+  - name: AIAI
+    id: d8ca18b5-feba-489d-8e5a-32b50eab2d01
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
 title: Ation Labs
