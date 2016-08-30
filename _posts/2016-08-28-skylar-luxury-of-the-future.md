@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-28T15:04:56.730Z'
+datePublished: '2016-08-28T15:05:44.986Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T15:04:39.871Z'
+dateModified: '2016-08-28T15:05:44.392Z'
 title: Skylar - luxury of the future
 publisher: {}
 description: art on the outside - genius on the inside
-starred: false
 sourcePath: _posts/2016-08-28-skylar-luxury-of-the-future.md
+starred: false
 url: skylar-luxury-of-the-future/index.html
 _type: Blurb
 
