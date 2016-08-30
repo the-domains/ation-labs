@@ -1,5 +1,6 @@
-layout_spectrum: 0.5417173949535936
 typography_spectrum: 0.9878041020128876
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -11,18 +12,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5417173949535936
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Ation Labs
+  email: contact@ationlabs.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb1e77c-4311-431f-bfa0-2244b018512e.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/335c9254-7e70-4f67-a255-b983b464a4b7.png
 name: Ation Labs
 cta:
   domain: null
