@@ -1,4 +1,4 @@
-typography_spectrum: 0.5758336919825524
+typography_spectrum: 0.02599
 content_rating:
   adult: false
 color:
@@ -16,7 +16,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.4522801183629781
+layout_spectrum: 1
 analytics:
   google: null
   facebook: null
@@ -32,8 +32,8 @@ navigation:
   - name: About Us
     id: d675ba5e-a82b-42af-ad44-fbd8bfe65694
     type: content
-  - name: AIAI - the future
-    id: d8ca18b5-feba-489d-8e5a-32b50eab2d01
+  - name: Skylar
+    id: f4665194-a762-4a41-a364-c419ef073f67
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8018b355-ada2-4765-a8e7-0c1f5d2d7034.ico
